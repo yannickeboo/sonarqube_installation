@@ -1,7 +1,7 @@
 # sonarqube_installation
 yannickeboo/sonarqube-installation
 
-
+```
 
 version: "3"
 
@@ -35,3 +35,4 @@ volumes:
   sonarqube_logs:
   postgresql:
   postgresql_data:
+```
